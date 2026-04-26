@@ -1,4 +1,4 @@
-# Data-Analysis-Projects
+# Los-Angeles-Crimes Analysis 
 This dataset contains records of reported crimes in Los Angeles, providing detailed information about each incident. It is commonly used for data analysis, crime pattern identification, and predictive modeling.
 
 The dataset includes multiple attributes describing each crime event, such as:
